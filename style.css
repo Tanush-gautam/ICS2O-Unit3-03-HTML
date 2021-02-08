@@ -1,0 +1,36 @@
+#first {
+  font-family: "Copperplate", serif;
+  color: blue;
+}
+
+.second {
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  width: 300px;
+  border: 4px solid;
+}
+
+.third {
+  position: absolute;
+  top:100px;
+  Left: 0px;
+  width: 300px;
+  border: 4px solid;
+}
+
+.fourth {
+  position:fixed;
+  top: 0;
+  padding: 10px;
+  background-color: chartreuse;
+  border: 2px solid #4CAF50 
+}
+
+.fifth{
+ position: absolute;
+  left: 300px;
+  top: 2000px;
+  width: 200px;
+  border: 30px solid #73ad21  
+}
